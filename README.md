@@ -16,7 +16,6 @@ Le fil conducteur est l'**IoU** (Intersection over Union), commune à toutes ces
 .
 ├── notebook_evaluation_vision.ipynb   # tout le code
 ├── requirements.txt
-├── Evaluation_Metrics_Vision.pptx     # présentation
 └── README.md
 ```
 
